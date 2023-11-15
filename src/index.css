@@ -1,0 +1,42 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .h1 {
+    @apply text-2xl text-black
+  }
+  .h2 {
+    @apply text-lg text-black
+  }
+  .btn
+  {
+    @apply w-[150px] h-[50px] rounded-[12px] border-2 border-teal-800 hover:bg-orange-500 hover:w-[200px] bg-black text-white
+  }
+
+}
+@layer components{
+  .max-container {
+    max-width: 1440px;
+    margin: 0px;
+  }
+  .gap{
+    @apply sm:gap-8
+  }
+  .hover{
+    @apply hover:text-2xl hover:font-bold
+  }
+}
+
+.bg-image {
+ background-image: url("../src/Assets/Banner/bn3.jpeg");
+
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}

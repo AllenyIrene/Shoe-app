@@ -1,0 +1,12 @@
+[
+    {"label":"Black Oficial Shoes", "image":"../Assets/Kids/p1.jpeg", "price":"$2000","id":1},
+    {"label":"Multi-Color Leather Shoes", "image":"../Assets/Kids/p7.jpeg", "price":"$5000","id":2},
+    {"label":"Brown Leather Shoes", "image":"../Assets/Kids/p3.jpeg", "price":"$6000","id":3},
+    {"label":"Brown Leather Shoes", "image":"../Assets/Kids/p4.jpeg", "price":"$8000","id":4},
+    {"label":"Brown Leather Shoes", "image":"../Assets/Kids/p5.jpeg", "price":"$20,000","id":5},
+    {"label":"Black Leather Shoes", "image":"../Assets/Kids/p6.jpeg","price":"$2000","id":6},
+    {"label":"Brown Leather Shoes", "image":"../Assets/Kids/p7.jpeg", "price":"$5000","id":7},
+    {"label":"Red Sport Shoes", "image":"../Assets/Kids/p8.jpeg", "price":"$8000","id":8},
+    {"label":"Multi-Color Sport Shoes", "image":"../Assets/Kids/p9.jpeg", "price":"$22000","id":9},
+    {"label":"Black Sport Shoes", "image":"../Assets/Kids/p10.jpeg", "price":"$2000","id":10}
+]
