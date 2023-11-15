@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shoe-app/static/css/main.d6708955.css",
+    "main.js": "/Shoe-app/static/js/main.61a234c1.js",
+    "static/media/m1.jpeg": "/Shoe-app/static/media/m1.432311436d7db0e34a3b.jpeg",
+    "static/media/p2.jpeg": "/Shoe-app/static/media/p2.e36cf82afdd123f95f91.jpeg",
+    "static/media/p9.jpeg": "/Shoe-app/static/media/p9.7aedc9f0522095365d8d.jpeg",
+    "static/media/w5.jpeg": "/Shoe-app/static/media/w5.1f618cb2b6ca2961bf1a.jpeg",
+    "static/media/p5.jpeg": "/Shoe-app/static/media/p5.f1b857b878e5cb104d87.jpeg",
+    "static/media/logo1.jpeg": "/Shoe-app/static/media/logo1.d3b7e625b17183869054.jpeg",
+    "static/media/p7.jpeg": "/Shoe-app/static/media/p7.389b64d434efbcf6d20b.jpeg",
+    "static/media/k1.jpeg": "/Shoe-app/static/media/k1.3b7f58e17a815ee1016b.jpeg",
+    "static/media/p10.jpeg": "/Shoe-app/static/media/p10.cd47b5f51fe73d649fd5.jpeg",
+    "static/media/p3.jpeg": "/Shoe-app/static/media/p3.00ca3ef36c40b789dd4f.jpeg",
+    "static/media/p8.jpeg": "/Shoe-app/static/media/p8.4b4a9f45aa53d57cfc58.jpeg",
+    "static/media/bn3.jpeg": "/Shoe-app/static/media/bn3.9c1f14501b1ffd462d5f.jpeg",
+    "static/media/p1.jpeg": "/Shoe-app/static/media/p1.94a11fbcc51e5f7ddcd1.jpeg",
+    "static/media/p4.jpeg": "/Shoe-app/static/media/p4.d426e861373d9652c5ae.jpeg",
+    "index.html": "/Shoe-app/index.html",
+    "main.d6708955.css.map": "/Shoe-app/static/css/main.d6708955.css.map",
+    "main.61a234c1.js.map": "/Shoe-app/static/js/main.61a234c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6708955.css",
+    "static/js/main.61a234c1.js"
+  ]
+}
